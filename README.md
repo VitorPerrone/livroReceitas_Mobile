@@ -61,4 +61,4 @@
  * **Murilo Marcondes**
  * **Vitor Perrone**
  
- *Obrigado por nos visitarem e Happy coding!
+## Obrigado por nos visitarem e Happy coding!
